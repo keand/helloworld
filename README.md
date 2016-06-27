@@ -1,2 +1,2 @@
 # helloworld
-This is created by Kevin Andersom
+This is created by Kevin Anderson
